@@ -8,7 +8,7 @@ I bring 10 years of historic commercial software experience, progressing from Gr
 
 ## Featured Work
 
-### [A Comparative Analysis of Memory Management, Concurrency, and Performance in Edge-AI](https://github.com/timclarke76/dissertation/releases/tag/v1.0.0-submission)
+### [A Comparative Analysis of Memory Management, Concurrency, and Performance in Edge-AI](https://github.com/timclarke76/dissertation)
 Independently architected and engineered a functionally identical tri-stream AI pipeline in **C++, Rust, and Python**, deployed on an NVIDIA Jetson Orin Nano.
 - **Tech:** C++, Rust, Python, CUDA, TensorRT, Linux, Docker
 - **Highlights:** Designed a zero-allocation pipeline architecture and implemented wait-free/lock-free IPC. Benchmarked and performed a comparative analysis of memory management and concurrency under hardware thermal and power constraints.

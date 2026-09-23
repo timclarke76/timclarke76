@@ -14,7 +14,7 @@ Independently architected and engineered a functionally identical tri-stream AI 
 - **Highlights:** Designed a zero-allocation pipeline architecture and implemented wait-free/lock-free IPC. Benchmarked and performed a comparative analysis of memory management and concurrency under hardware thermal and power constraints.
 
 ### [GPU Programming & Real-Time Rendering](https://github.com/timclarke76/gpuProgramming)
-Custom C++ rendering engine built from scratch to demonstrate graphics architecture and rendering techniques. *(Grade: A)*
+Wrote a C++ rendering engine built from scratch to demonstrate graphics architecture and rendering techniques. *(Grade: A)*
 - **Tech:** C++, OpenGL, GLSL, GLFW, Assimp
 - **Highlights:** Designed and implemented a custom Scene Graph architecture for efficient matrix transformations.
   Implemented instanced particle emitters, normal mapping, HDR tone mapping (ACES/Reinhard), and multi-pass Gaussian

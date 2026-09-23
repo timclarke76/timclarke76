@@ -20,6 +20,11 @@ Custom C++ rendering engine built from scratch to demonstrate graphics architect
   Implemented instanced particle emitters, normal mapping, HDR tone mapping (ACES/Reinhard), and multi-pass Gaussian
   bloom within an optimised C++ render loop.
 
+### [AWS Microservices](https://github.com/timclarke76/devOps)
+Designed and deployed an event-driven, 8-service Go microservices system to AWS. *(Grade: A)*
+- **Tech:** Go, AWS (ECS Fargate, SQS, DynamoDB), Terraform, Docker, GitHub Actions
+- **Highlights:** Provisioned a secure dual-subnet VPC using Infrastructure as Code (IaC). Implemented OIDC-secured CI/CD pipelines with zero-downtime Blue-Green deployments and the Expand-Contract database pattern.
+
 ### [Tappy Keyboard](https://play.google.com/store/apps/details?id=app.minibytes.keyboard)
 Production T9 keyboard application for Android featuring predictive text.
 - **Tech:** Kotlin, Android NDK, C++

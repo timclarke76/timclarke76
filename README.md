@@ -32,12 +32,11 @@ Production T9 keyboard application for Android featuring predictive text.
 - **Scope:** Managed the end-to-end product lifecycle and user feedback integration.
 
 ### Additional MSc Coursework
-- **DevOps & Microservices:** Architected and deployed a containerised microservices system with a fully automated CI/CD pipeline. *(Grade: A)*
 - **Big Data Analysis:** Performed exploratory analysis of a large dataset to provide solutions to a set of five problems. *(Grade: A)*
 - **Statistics for Computer Science:** Applied statistical testing and data visualisation to derive commercial insights from raw datasets. *(Grade: A)*
 
 ## Skills
-- **Languages:** C++, Rust, C, Python, Java, Kotlin, Bash, SQL
+- **Languages:** C++, Rust, C, Python, Go, Java, Kotlin, Bash, SQL
 - **Systems & Concurrency:** Lock-free/Wait-free IPC, Multithreading, Memory Profiling, Zero-allocation architectures
 - **Hardware & Environments:** NVIDIA Jetson, Edge Computing, IoT, POSIX/UNIX
 - **Infrastructure:** Linux (Arch, CachyOS, NixOS, OpenSUSE, Ubuntu), Docker, CI/CD, Git, CMake, Cargo, Poetry, AWS, Terraform

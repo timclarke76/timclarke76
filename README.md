@@ -46,7 +46,7 @@ Production T9 keyboard application for Android featuring predictive text.
   - *Achieved straight As across all modules, assignments, and exams (including GPU Programming, DevOps & Microservices, Big Data, and Statistics).*
   - *Academic feedback consistently highlighted "excellent code structure", "outstanding piece of work", "outstanding technical detail", and engineering work "significantly above and beyond what was requested."*
 - **2007–2025 | Self-Employment & Career Break**
-  - *Stepped away from the industry to pursue self-employment and different life priorities.*
+  - *Stepped away from the software industry to build and manage an independent e-commerce business.* I am returning to the industry bringing 18 years of commercial pragmatism to complement my systems engineering skills.
 - **2000–2007 | Senior / Lead Developer** — Intelligent Finance (Banking, formerly part of HBOS)
   - *Promoted twice to a lead developer level (formerly titled 'Principal'). Worked on high-volume, mid-tier enterprise financial services.*
 - **1997–2000 | Embedded Software Engineer** — Payment Systems (acquired by Ingenico)

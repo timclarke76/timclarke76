@@ -56,7 +56,7 @@ Production T9 keyboard application for Android featuring predictive text.
 - **Location:** Currently in Scotland. Highly flexible and willing to relocate anywhere in the UK for the right remote, hybrid, or on-site opportunity. Also open to remote opportunities globally.
 - **GitHub:** [@timclarke76](https://github.com/timclarke76)
 - **Email:** [contact@timothyclarke.dev](mailto:contact@timothyclarke.dev)
-- **LinkedIn:** Currently unavailable — please contact via email
+- **LinkedIn:** [timclarke76](https://www.linkedin.com/in/timclarke76)
 
 ---
 **Open to opportunities in:** Systems Engineering, Embedded Software, C++ Development, Rust Development.
